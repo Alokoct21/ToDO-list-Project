@@ -3,7 +3,7 @@
 
 A todolist  app have the functionality to add the task ,edit the task and
 delete the task we can also delete the multiple at once.I am also add the search bar to 
-search the task to just type the task name.
+search the task to just type the task name.Using the local storage to store our data.
 
 Live site : https://alokoct21.github.io/ToDO-list-Project/
 
