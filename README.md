@@ -9,7 +9,7 @@ Live site : https://alokoct21.github.io/ToDO-list-Project/
 
 # Language use to make
 
-HTML/CSS , JAVASCRIPT
+HTML/CSS, BOOTSTRAP , JAVASCRIPT
 
 
 ## Screenshots
