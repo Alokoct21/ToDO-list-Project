@@ -11,12 +11,6 @@ Live site : https://alokoct21.github.io/ToDO-list-Project/
 
 HTML/CSS , JAVASCRIPT
 
-# ScreenShot
-
-
-
-
-
 
 ## Screenshots
 
